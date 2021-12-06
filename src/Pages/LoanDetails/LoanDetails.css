@@ -1,0 +1,11 @@
+.container{
+    background-color:mintcream;
+}
+.submit-button{
+    padding: 10px;
+    width: 50%;
+    margin-bottom: 40px;
+    border-radius: 20px;
+    background-color: #000080;
+    color: white;
+}

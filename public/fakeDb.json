@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Personal loans",
+        "image": "https://c8.alamy.com/comp/H9FAN7/personal-loan-H9FAN7.jpg",
+        "price": "15000",
+        "time": "2 to 7",
+        "description": "The interest rate on a personal loan usually is locked, which means it does not change for the life of the loan. However, some personal loans do have variable interest rates that change periodically. The drawback of a variable interest rate is that your payments can fluctuate as your rate changes, making it harder to budget for your loan payments."
+    },
+    {
+        "name": "Auto loans",
+        "image": "https://thumbs.dreamstime.com/b/auto-loan-15410887.jpg",
+        "price": "100000",
+        "time": "3 to 7",
+        "description": "You can typically get auto loans from credit unions, banks, online lenders and even car dealerships. Some car dealerships have a financing department where they help you find the best loan from partner lenders. Others operate as “buy-here-pay-here” lenders, where the dealership itself gives you the loan. These tend to be much more expensive, though."
+    },
+    {
+        "name": "Student loans",
+        "image": "https://image.shutterstock.com/image-photo/graduation-mortar-board-cap-on-600w-256626130.jpg",
+        "price": "138500",
+        "time": "10 to 25",
+        "description": "There are two types of student loans: federal and private. You get federal student loans by filling out the Free Application for Federal Student Aid (FAFSA) and working with your school’s financial aid department. Federal student loans generally come with more protections and benefits but charge slightly higher interest rates. Private student loans."
+    },
+    {
+        "name": "Mortgage loans",
+        "image": "https://media.istockphoto.com/photos/an-empty-mortgage-application-form-with-house-key-picture-id1133438028?k=20&m=1133438028&s=612x612&w=0&h=b17Rdi2s0HkCWjZR8rz5eU_77c2wKljJx-AVIPwCPrA=",
+        "price": "510400",
+        "time": "5 to 15",
+        "description": "Mortgages help you finance the purchase of a home, and there are many types of mortgages available. Banks and credit unions are common mortgage lenders; however, they may sell their loans to a federally-sponsored group like Fannie Mae or Freddie Mac if it’s a qualified mortgage."
+    },
+    {
+        "name": "Home Equity loans",
+        "image": "https://thumbs.dreamstime.com/z/home-equity-loan-form-cash-table-118065955.jpg",
+        "price": "100000",
+        "time": "5 to 30",
+        "description": "you have equity in your home, you might be able to use a home equity loan, also known as a second mortgage. The equity you have in your home—the portion of your home that you own, and not the bank—secures the loan. You can typically borrow up to 85% of your home’s equity, which is paid out as a lump sum amount and repaid over five to 30 years."
+    },
+    {
+        "name": "Credit-builder loans",
+        "image": "https://rentdynamics.zendesk.com/hc/article_attachments/360045512452/Credit_Builder.jpg",
+        "price": "3000",
+        "time": "2 to 3",
+        "description": "Credit-builder loans are small, short-term loans that are taken out to help you build credit. Since they’re marketed toward people with zero or limited credit, you don’t need good credit to qualify, unlike regular loans. You can typically find credit-builder loans at credit unions, community banks, Community Development Financial Institutions (CDFIs), lending circles or online lenders."
+    },
+    {
+        "name": "Debt Consolidation loans",
+        "image": "https://image.shutterstock.com/image-photo/crisis-high-burden-consumer-debt-600w-1699344271.jpg",
+        "price": "180000",
+        "time": "2 to 15",
+        "description": " you have high-interest debts like credit cards or a high-interest personal loan, a debt consolidation loan can help you in two ways. First, you could qualify for a lower monthly payment. Second, you could qualify for lower rates, which can help you save money over the long term."
+    },
+    {
+        "name": "Payday loans",
+        "image": "https://media.istockphoto.com/photos/-picture-id1071709494?k=20&m=1071709494&s=612x612&w=0&h=LhcxYJEklRobrrM14naQ_u-oBrEmFNf5hh5JD84-lBs=",
+        "price": "20000",
+        "time": "5 to 20",
+        "description": "Payday loans are a type of short-term loan, usually lasting just until your next paycheck. These loans aren’t credit-based, and so you don’t need good credit to qualify. However, these loans are often predatory in nature, for a couple of reasons"
+    },
+    {
+        "name": "Small Business loans",
+        "image": "https://thumbs.dreamstime.com/z/writing-note-showing-business-loan-photo-showcasing-loans-provided-to-small-businesses-various-purposes-concept-174811438.jpg",
+        "price": "30000",
+        "time": "3 to 10",
+        "description": "Small business loans typically have more qualification requirements than personal loans, especially if you’re applying for an SBA loan. However, the rewards are well worth it because these loans can give your business the financing it needs to grow. Alternative business financing methods, like invoice factoring or merchant cash advances"
+    },
+    {
+        "name": "Title loans",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQGShr6e1drDqmsNkZhzzLnn1fgJxkTZOgUQ&usqp=CAU",
+        "price": "400000",
+        "time": "6 to 18",
+        "description": "Title loans are another type of secured loan where you pledge the title for a vehicle you own—such as a car, truck or RV—as collateral. Your loan limit typically is anywhere between 25% to 50% of your car’s value, evaluated by the lender. Lenders that offer title loans also charge a monthly fee of 25% of the loan amount,"
+    },
+    {
+        "name": "Personal loans",
+        "image": "https://c8.alamy.com/comp/H9FAN7/personal-loan-H9FAN7.jpg",
+        "price": "15000",
+        "time": "2 to 7",
+        "description": "The interest rate on a personal loan usually is locked, which means it does not change for the life of the loan. However, some personal loans do have variable interest rates that change periodically. The drawback of a variable interest rate is that your payments can fluctuate as your rate changes, making it harder to budget for your loan payments."
+    },
+    {
+        "name": "Pawnshop loans",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-wbqag_Cd0on5W7ZBUEoXc2wgTlaXGaDAfw&usqp=CAU",
+        "price": "11000",
+        "time": "2 to 5",
+        "description": "Pawnshop loans are another type of loan we usually don’t recommend because they’re very expensive, have small loan limits and require quick repayment. To get a pawnshop loan, you’ll bring something of value to the pawnbroker, such as a power tool, a piece of jewelry or a musical instrument."
+    },
+    {
+        "name": "Boat loans",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5GqSjkEgMA3Csjam8vYJ84f-MnLF0eDMYiA&usqp=CAU",
+        "price": "21000",
+        "time": "2 to 8",
+        "description": "Boat loans are specifically designed to finance the purchase of a boat and are available through banks, credit unions and online lenders. The loans can either be unsecured or secured, with secured loans using your boat as collateral. As with any vehicle-related loan, it’s crucial to keep depreciation in mind."
+    },
+    {
+        "name": "Recreational Vehicle loans",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTejCCNQfSKbS2m2fhJ-rJaPd_KEq4ZblgnUg&usqp=CAU",
+        "price": "25000",
+        "time": "2 to 12",
+        "description": "RV loans can either be unsecured or secured loans. Smaller RV loans are typically unsecured and work similarly to a personal loan while expensive, luxury RVs are secured—with the RV serving as collateral—and work more like an auto loan."
+    },
+    {
+        "name": "Family loans",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlr1WZICjBwkuAP5oar45T8Qh9JWSEmMRHTA&usqp=CAU",
+        "price": "26000",
+        "time": "2 to 15",
+        "description": "Family loans are informal loans that you get from family members (and sometimes friends). You may choose to turn to family if you can’t qualify for a traditional loan from a bank or lender, for example. Family loans can be useful because you don’t need any credit to get one. If your family member trusts you and they have the financial means to do so, they can choose to give you the loan."
+    },
+    {
+        "name": "Land loans",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbyE-yS-MDTF0iEu02J96xVen84NP5rIDFog&usqp=CAU",
+        "price": "1000000",
+        "time": "2 to 20",
+        "description": "There are a lot of reasons people buy land. Maybe they want to build a house on it, harvest its natural resources or lease it out to other people and businesses. But land can be expensive, and that’s where a land loan can come in handy."
+    }
+]
